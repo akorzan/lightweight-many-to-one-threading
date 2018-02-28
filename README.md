@@ -1,6 +1,8 @@
 For prospective employers.
+# Not actually a threading library, this was an earlier implementation of trampolines in assembly.
+I believe the other threading library on my site is more fully implemented.
 
-## Many-to-One LightWeight Round Robin Threading
+## The start to Many-to-One LightWeight Round Robin Threading
 Designed for class.  If I am not mistaken, it was fully implemented as long as the included main function is used.
 
 ## The following is the README for the old assignment submission.
