@@ -3,7 +3,7 @@ For prospective employers.
 I believe the other threading library on my site is more fully implemented.
 
 ## The start to Many-to-One LightWeight Round Robin Threading
-Designed for class.  If I am not mistaken, it was fully implemented as long as the included main function is used.
+Designed for class.  The start to a threading library, a trampoline.  Examples of atomic instructions are available in another repository on my github.
 
 ## The following is the README for the old assignment submission.
 
